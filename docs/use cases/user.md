@@ -14,4 +14,4 @@ EX_002 Пароль не підходить під задані вимоги
 EX_003 Некоректний email
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-[Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)
