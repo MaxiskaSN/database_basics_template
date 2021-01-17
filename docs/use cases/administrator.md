@@ -17,7 +17,7 @@ EX_002 Вказаний аккаунт вже має ці права
 ![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_06.png)
 
 
-<h2>ID: UС_001</h2>
+<h2>ID: UС_002</h2>
       
 ***НАЗВА: Видалення прав працівника служби підтримки***
     
