@@ -1,4 +1,10 @@
-# Проєктування бази даних
+<h1>Модель бізнес-об'єктів</h1>
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/docs/design/Bussines_Model.png)
 
-*В рамках проекту розробляється модель бізнес-об'єктів, ER-модель та реляційна схема.*
+<h1>ER-модель</h1>
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/docs/design/ER_Model.png)
+
+<h1>Реляційна схема</h1>
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/docs/design/Reg_Diagram.png)
+
 
