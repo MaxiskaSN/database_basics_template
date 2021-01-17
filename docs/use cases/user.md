@@ -1,6 +1,6 @@
-<h2>ID: USS_001</h2>
+<h2>ID: UС_001</h2>
       
-***НАЗВА: Створення облікового запису користувача***
+***НАЗВА: Сценарій створення облікового запису користувача***
     
 ***УЧАСНИКИ: Сервіс, Користувач***
 
@@ -14,4 +14,37 @@ EX_002 Пароль не підходить під задані вимоги
 EX_003 Некоректний email
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_00.png)
+
+<h2>ID: UС_002</h2>
+
+***НАЗВА: Сценарій вхідоду до облікового запису користувача***
+    
+***УЧАСНИКИ: Сервіс, Користувач***
+
+***ПЕРЕДУМОВИ:***
+
+***РЕЗУЛЬТАТ: Вхід до облікового запису***
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***  
+EX_001 Користувача с таким логіном не існує
+EX_002 Пароль некоректний
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_01.png)
+
+<h2>ID: UС_003</h2>
+
+***НАЗВА: Сценарій створення тікета до СП***
+    
+***УЧАСНИКИ: Сервіс, Користувач***
+
+***ПЕРЕДУМОВИ:***
+
+***РЕЗУЛЬТАТ: Створений тікет звернення до СП***
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:***  
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_02.png)
+
