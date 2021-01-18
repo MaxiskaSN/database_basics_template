@@ -12,7 +12,7 @@
 EX_001 Працівник СП не може дати відповідь на поставлене питання або не може вирішити поставлену проблему
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![PlantUML model](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_08.puml)
+![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_08.png)
 
 
 <h2>ID: UС_002</h2>
