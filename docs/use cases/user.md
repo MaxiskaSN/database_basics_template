@@ -98,3 +98,19 @@ EX_001 Не має зв'язку з БД
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 ![uml](http://www.plantuml.com/plantuml/png/bP51IiDW48NtESLSGD2j2-d6ExWJmQA2LgXnhqPm8qYbL10LnGlysaH_qYPUuPiR-NwB2wsBkWbv7s_UcqawH_bMFpy-sC-ufVKJef_wcHUy4lnYQOsd6Q5YIh1LuvuWAKYjjw7HYFD1fU6ACHE_ehGqysrCJvcZoT7ohkWeL7jXF5CB1h-X8MO_orJ-nqffXKTQNeY2bwQye7O9ewGr1Woptc7UjVxUpcukzvtSRqo82cXjVMDpUMNXfWT9OQPUf5DB0WsDZspXX854EPiUVvrwxYFgVnnxJKoz2fZ_fbvOGh-YZNe-oekiq-rjwqz_0W00)
 
+<h2>ID: UС_007</h2>
+
+***НАЗВА: Залишити коментар***
+    
+***УЧАСНИКИ: Система, Користувач***
+
+***ПЕРЕДУМОВИ:***
+
+***РЕЗУЛЬТАТ: Коментування***
+
+***ВИКЛЮЧНІ СИТУАЦІЇ:*** 
+EX_001 Ви не війшли в аккаунт
+
+***ОСНОВНИЙ СЦЕНАРІЙ:***
+![uml](http://www.plantuml.com/plantuml/png/ZP0nYi9058RxdE9TO66ttM99itUm4y6WWaQ8OnyDeeMbA8WWtc0KeqDYvWp_kv4_iH9IM4mn__lu_iSB9wQJcEbe660FhocSpdIk6Iwmklpwm-cL8CS3Ldu5H-IQyYtWSOKZl1RI5HpkKgFKw9P10ISVQtUmA1ck26m41JmdEIeoLjCW7fj8aa6lRyWUEBo1D7LU_bljxv_WtSY6XjvwVNxEABbWeLbJKnZ5NTxZ2G00)
+
