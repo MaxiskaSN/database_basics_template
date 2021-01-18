@@ -63,7 +63,7 @@ EX_002 Пароль некоректний
 EX_001 Відмова в видаленні облікового запису
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_03.png)
+![uml](http://www.plantuml.com/plantuml/png/TP0nIWD168NxESLSGD3MGj9u1piH32feXBZsEWlQkK522X4MRp0EIHXsdJt3zsxaZDM2IVVpUBpt_M_oK5tCgyUxMyC7Wvw8UfPJJS3hzU24DcjUBreHI4GwlcZjiUMzMEaP2FHwqzBoZMUBBsSWiiRJ4-M85az7XrTDaZExOtFTWZK_MKrQ_O4KbojWfR9bauLD2HxLaKXgBDr_VdmftfEesipkgwcTtrnTLpdzau5j0IOmsDEpyyCZivydi-uOh50knf-Ebb2ZfLnsDsOodLtcpNy1)
 
 <h2>ID: UС_005</h2>
 
@@ -80,7 +80,7 @@ EX_001 Аккаунту з таким логіном не існує
 EX_002 Пароль не підходить під задані вимоги
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_04.png)
+![uml](http://www.plantuml.com/plantuml/png/dL9DIiDW5Dpd5Dy517NfGhhn3kwaODH2Mw76VTluioaLIgaWYdY3a3OQ-pN95URTo7dzDX4ZV9H2USoRpCoRf7KJjGVHRQyRu0Mb397BICOI8qKYZtl7-708CcoGc2E3Dox62cBDQMvG4ETSe4I5jSG6gIomKe0g5XcdGfuCAlA71ArCWz-wz6bmLxSPSagfZznj6HiQ4B4gcF9NOgM8vR2aRI6nzoKpzpXoqYOrYQ1_7OLcqBcyYiXw9Vp9PQviSt9wjd_WdtvRHCLLGf2PjQ-At17bB47NZBl7fpVNDjVi7bygGA5lKjJTy2_3qiLGJtcGXJoRiDVk-B_VTsIg8_VrRfZvR_3fhasx2ncyVjl4rTuDBvfRF_HlNG4apaPRa_c_dgsmVywl_mS0)
 
 <h2>ID: UС_006</h2>
 
@@ -96,5 +96,5 @@ EX_002 Пароль не підходить під задані вимоги
 EX_001 Не має зв'язку з БД
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_05.png)
+![uml](http://www.plantuml.com/plantuml/png/bP51IiDW48NtESLSGD2j2-d6ExWJmQA2LgXnhqPm8qYbL10LnGlysaH_qYPUuPiR-NwB2wsBkWbv7s_UcqawH_bMFpy-sC-ufVKJef_wcHUy4lnYQOsd6Q5YIh1LuvuWAKYjjw7HYFD1fU6ACHE_ehGqysrCJvcZoT7ohkWeL7jXF5CB1h-X8MO_orJ-nqffXKTQNeY2bwQye7O9ewGr1Woptc7UjVxUpcukzvtSRqo82cXjVMDpUMNXfWT9OQPUf5DB0WsDZspXX854EPiUVvrwxYFgVnnxJKoz2fZ_fbvOGh-YZNe-oekiq-rjwqz_0W00)
 
