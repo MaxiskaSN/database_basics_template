@@ -13,8 +13,7 @@
 EX_001 Такого аккаунту не існує
 EX_002 Вказаний аккаунт вже має ці права 
 
-***ОСНОВНИЙ СЦЕНАРІЙ:***
-![UML](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_06.puml)
+***ОСНОВНИЙ СЦЕНАРІЙ:***![Image alt](https://github.com/MaxiskaSN/database_basics_template/blob/master/src/uml/UC_06.png)
 
 
 <h2>ID: UС_002</h2>
